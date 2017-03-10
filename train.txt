@@ -1,0 +1,3 @@
+training in devops 
+by using git
+linux commands
